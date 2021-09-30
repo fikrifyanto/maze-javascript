@@ -1,4 +1,4 @@
-# mazejs
+# maze javascript
 Simple code for maze output on console
 
 <br />
